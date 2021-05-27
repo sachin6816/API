@@ -9,6 +9,10 @@ There are 5 different routes which are facilitating in their own way. They are p
 
 ## General Information about API
 
+
+
+
+
 ### The general idea behind the API
 A Question Answering API which basically tries to answer the question after reading the provided context. It also provides option to choose the model of choice to get answer for the question. Other functions include knowing the present models and the answers provided by them with timestamp.  
 
